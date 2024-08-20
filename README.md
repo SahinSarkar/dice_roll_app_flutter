@@ -2,7 +2,7 @@
 
 My first flutter project which has a lovely background, and rolls a dice using a button.
 
-![Demo](screenrecordings/Screen_recording_20240820_202807.mp4)
+![Demo](screenrecordings/Screen_recording_20240820_202807.gif)
 
 
 ## Getting Started
